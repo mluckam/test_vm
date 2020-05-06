@@ -1,0 +1,10 @@
+.vagrant
+
+#python
+.idea
+__pycache__
+venv
+
+#virutalbox
+MSEdge - Win10.box
+MSEdge.Win10.Vagrant.zip
